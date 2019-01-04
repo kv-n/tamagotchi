@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.mname {
+    margin-bottom: 400px;
+}
+
+.tpic {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#conditions {
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+#tname  {
+    color: black;
+    border: 2px solid rgba(0, 0, 0, 0.137);
+    background: rgba(255, 255, 255, 0.246);
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    height: 600px;
+    width: 300px;
+}
+
+#container {
+    display: flex;
+    height: 300px;
+}
+
+#meet-t {
+    font-size: 20px;
+    padding: 14px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: url('http://www.scalsys.com/wallpapers/star-wars-minimalist-wallpaper/star-wars-minimalist-wallpaper_109316.jpg');
+    background-size: cover;
+
+}
+
+button {
+    font-size: 14px;
+}
+
+main section div {
+    margin: 20px;
+}
